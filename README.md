@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Diorge Polli</h1>
 
 <p align="center">
-I'm a data analyst graduated at Le Wagon Brazil. I currently looking for a job and working on my personnal projects.
+I'm a data analyst graduated at Le Wagon Brazil. I'm currently looking for a job and working on my personnal projects.
 </p>
 <p align="center">
 I am a merchant navy officer ⚓ in career transition, with a background in engineering. I have a strong logical reasoning ability that greatly helps me with data analysis.</p>
